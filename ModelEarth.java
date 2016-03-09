@@ -1,5 +1,6 @@
 // Skeletal program for the "Model Earth" assignment
 // Written by:  Minglun Gong
+// Completed by: Ozair Shafiq
 
 package modelearth;
 
